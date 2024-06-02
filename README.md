@@ -1,6 +1,6 @@
 # Diabetes-analysis-using-python
 
-![](Diabetes analysis.jpeg)
+![](Diabetes analysis.jpeg) 
 
  ## PROBLEM STATEMENT:
  This project focused on HR attrition analysis, and I had the opportunity to dive deep into the data using Python. The experience was both challenging and rewarding, and I am eager to share a bit about how I approached this project.
